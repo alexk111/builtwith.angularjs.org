@@ -3647,7 +3647,29 @@
         "Static",
         "Responsive"
       ]
-    }
+    },
+    {
+      "name": "SVG Circus",
+      "thumb": "svg-circus/thumb.png",
+      "desc": "Create cool animated SVG spinners, loaders and other looped animations in seconds",
+      "url": "http://svgcircus.com",
+      "src": "https://github.com/alexk111/SVG-Circus",
+      "submitter": "alexk111",
+      "submissionDate": "2015-03-09",
+      "tags": [
+        "Production",
+        "Developer Tool",
+        "Developers",
+        "Animations",
+        "SVG",
+        "JS",
+        "Bootstrap",
+        "SASS",
+        "Compass",
+        "No jQuery",
+        "Open Source"
+      ]
+}
 
   ]
 }
